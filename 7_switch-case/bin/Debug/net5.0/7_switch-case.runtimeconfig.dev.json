@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/home/rumeysa/.dotnet/store/|arch|/|tfm|",
+      "/home/rumeysa/.nuget/packages"
+    ]
+  }
+}

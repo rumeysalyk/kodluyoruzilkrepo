@@ -1,0 +1,16 @@
+/home/rumeysa/Desktop/web-developent/7_switch-case/bin/Debug/net5.0/7_switch-case
+/home/rumeysa/Desktop/web-developent/7_switch-case/bin/Debug/net5.0/7_switch-case.deps.json
+/home/rumeysa/Desktop/web-developent/7_switch-case/bin/Debug/net5.0/7_switch-case.runtimeconfig.json
+/home/rumeysa/Desktop/web-developent/7_switch-case/bin/Debug/net5.0/7_switch-case.runtimeconfig.dev.json
+/home/rumeysa/Desktop/web-developent/7_switch-case/bin/Debug/net5.0/7_switch-case.dll
+/home/rumeysa/Desktop/web-developent/7_switch-case/bin/Debug/net5.0/ref/7_switch-case.dll
+/home/rumeysa/Desktop/web-developent/7_switch-case/bin/Debug/net5.0/7_switch-case.pdb
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/7_switch-case.csproj.AssemblyReference.cache
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/7_switch-case.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/7_switch-case.AssemblyInfoInputs.cache
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/7_switch-case.AssemblyInfo.cs
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/7_switch-case.csproj.CoreCompileInputs.cache
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/7_switch-case.dll
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/ref/7_switch-case.dll
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/7_switch-case.pdb
+/home/rumeysa/Desktop/web-developent/7_switch-case/obj/Debug/net5.0/7_switch-case.genruntimeconfig.cache
