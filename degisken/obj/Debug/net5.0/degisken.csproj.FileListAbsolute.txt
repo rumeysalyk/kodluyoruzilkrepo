@@ -1,0 +1,16 @@
+/home/rumeysa/Desktop/web-developent/degisken/bin/Debug/net5.0/degisken
+/home/rumeysa/Desktop/web-developent/degisken/bin/Debug/net5.0/degisken.deps.json
+/home/rumeysa/Desktop/web-developent/degisken/bin/Debug/net5.0/degisken.runtimeconfig.json
+/home/rumeysa/Desktop/web-developent/degisken/bin/Debug/net5.0/degisken.runtimeconfig.dev.json
+/home/rumeysa/Desktop/web-developent/degisken/bin/Debug/net5.0/degisken.dll
+/home/rumeysa/Desktop/web-developent/degisken/bin/Debug/net5.0/ref/degisken.dll
+/home/rumeysa/Desktop/web-developent/degisken/bin/Debug/net5.0/degisken.pdb
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/degisken.csproj.AssemblyReference.cache
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/degisken.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/degisken.AssemblyInfoInputs.cache
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/degisken.AssemblyInfo.cs
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/degisken.csproj.CoreCompileInputs.cache
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/degisken.dll
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/ref/degisken.dll
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/degisken.pdb
+/home/rumeysa/Desktop/web-developent/degisken/obj/Debug/net5.0/degisken.genruntimeconfig.cache
