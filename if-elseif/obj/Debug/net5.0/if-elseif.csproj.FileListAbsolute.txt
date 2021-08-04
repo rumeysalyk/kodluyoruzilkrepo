@@ -1,0 +1,16 @@
+/home/rumeysa/Desktop/web-developent/if-elseif/bin/Debug/net5.0/if-elseif
+/home/rumeysa/Desktop/web-developent/if-elseif/bin/Debug/net5.0/if-elseif.deps.json
+/home/rumeysa/Desktop/web-developent/if-elseif/bin/Debug/net5.0/if-elseif.runtimeconfig.json
+/home/rumeysa/Desktop/web-developent/if-elseif/bin/Debug/net5.0/if-elseif.runtimeconfig.dev.json
+/home/rumeysa/Desktop/web-developent/if-elseif/bin/Debug/net5.0/if-elseif.dll
+/home/rumeysa/Desktop/web-developent/if-elseif/bin/Debug/net5.0/ref/if-elseif.dll
+/home/rumeysa/Desktop/web-developent/if-elseif/bin/Debug/net5.0/if-elseif.pdb
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/if-elseif.csproj.AssemblyReference.cache
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/if-elseif.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/if-elseif.AssemblyInfoInputs.cache
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/if-elseif.AssemblyInfo.cs
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/if-elseif.csproj.CoreCompileInputs.cache
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/if-elseif.dll
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/ref/if-elseif.dll
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/if-elseif.pdb
+/home/rumeysa/Desktop/web-developent/if-elseif/obj/Debug/net5.0/if-elseif.genruntimeconfig.cache
