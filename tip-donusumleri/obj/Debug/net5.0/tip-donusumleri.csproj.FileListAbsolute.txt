@@ -1,0 +1,16 @@
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.deps.json
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.json
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.runtimeconfig.dev.json
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.dll
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/bin/Debug/net5.0/ref/tip-donusumleri.dll
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/bin/Debug/net5.0/tip-donusumleri.pdb
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.AssemblyReference.cache
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfoInputs.cache
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.AssemblyInfo.cs
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.csproj.CoreCompileInputs.cache
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.dll
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/ref/tip-donusumleri.dll
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.pdb
+/home/rumeysa/Desktop/web-developent/tip-donusumleri/obj/Debug/net5.0/tip-donusumleri.genruntimeconfig.cache
