@@ -1,0 +1,16 @@
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/bin/Debug/net5.0/9_donguler-while-foreach
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/bin/Debug/net5.0/9_donguler-while-foreach.deps.json
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/bin/Debug/net5.0/9_donguler-while-foreach.runtimeconfig.json
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/bin/Debug/net5.0/9_donguler-while-foreach.runtimeconfig.dev.json
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/bin/Debug/net5.0/9_donguler-while-foreach.dll
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/bin/Debug/net5.0/ref/9_donguler-while-foreach.dll
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/bin/Debug/net5.0/9_donguler-while-foreach.pdb
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/9_donguler-while-foreach.csproj.AssemblyReference.cache
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/9_donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/9_donguler-while-foreach.AssemblyInfoInputs.cache
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/9_donguler-while-foreach.AssemblyInfo.cs
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/9_donguler-while-foreach.csproj.CoreCompileInputs.cache
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/9_donguler-while-foreach.dll
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/ref/9_donguler-while-foreach.dll
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/9_donguler-while-foreach.pdb
+/home/rumeysa/Desktop/web-developent/9_donguler-while-foreach/obj/Debug/net5.0/9_donguler-while-foreach.genruntimeconfig.cache
