@@ -1,0 +1,16 @@
+/home/rumeysa/Desktop/web-developent/operators/bin/Debug/net5.0/operators
+/home/rumeysa/Desktop/web-developent/operators/bin/Debug/net5.0/operators.deps.json
+/home/rumeysa/Desktop/web-developent/operators/bin/Debug/net5.0/operators.runtimeconfig.json
+/home/rumeysa/Desktop/web-developent/operators/bin/Debug/net5.0/operators.runtimeconfig.dev.json
+/home/rumeysa/Desktop/web-developent/operators/bin/Debug/net5.0/operators.dll
+/home/rumeysa/Desktop/web-developent/operators/bin/Debug/net5.0/ref/operators.dll
+/home/rumeysa/Desktop/web-developent/operators/bin/Debug/net5.0/operators.pdb
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/operators.csproj.AssemblyReference.cache
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/operators.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/operators.AssemblyInfoInputs.cache
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/operators.AssemblyInfo.cs
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/operators.csproj.CoreCompileInputs.cache
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/operators.dll
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/ref/operators.dll
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/operators.pdb
+/home/rumeysa/Desktop/web-developent/operators/obj/Debug/net5.0/operators.genruntimeconfig.cache
