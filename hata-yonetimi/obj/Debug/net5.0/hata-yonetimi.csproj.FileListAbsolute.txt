@@ -1,0 +1,16 @@
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.deps.json
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.runtimeconfig.json
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.runtimeconfig.dev.json
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.dll
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/bin/Debug/net5.0/ref/hata-yonetimi.dll
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/bin/Debug/net5.0/hata-yonetimi.pdb
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.csproj.AssemblyReference.cache
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.AssemblyInfoInputs.cache
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.AssemblyInfo.cs
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.csproj.CoreCompileInputs.cache
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.dll
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/ref/hata-yonetimi.dll
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.pdb
+/home/rumeysa/Desktop/web-developent/hata-yonetimi/obj/Debug/net5.0/hata-yonetimi.genruntimeconfig.cache
