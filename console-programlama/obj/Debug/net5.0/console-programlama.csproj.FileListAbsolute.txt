@@ -1,0 +1,16 @@
+/home/rumeysa/Desktop/web-developent/console-programlama/bin/Debug/net5.0/console-programlama
+/home/rumeysa/Desktop/web-developent/console-programlama/bin/Debug/net5.0/console-programlama.deps.json
+/home/rumeysa/Desktop/web-developent/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.json
+/home/rumeysa/Desktop/web-developent/console-programlama/bin/Debug/net5.0/console-programlama.runtimeconfig.dev.json
+/home/rumeysa/Desktop/web-developent/console-programlama/bin/Debug/net5.0/console-programlama.dll
+/home/rumeysa/Desktop/web-developent/console-programlama/bin/Debug/net5.0/ref/console-programlama.dll
+/home/rumeysa/Desktop/web-developent/console-programlama/bin/Debug/net5.0/console-programlama.pdb
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/console-programlama.csproj.AssemblyReference.cache
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/console-programlama.GeneratedMSBuildEditorConfig.editorconfig
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfoInputs.cache
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/console-programlama.AssemblyInfo.cs
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/console-programlama.csproj.CoreCompileInputs.cache
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/console-programlama.dll
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/ref/console-programlama.dll
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/console-programlama.pdb
+/home/rumeysa/Desktop/web-developent/console-programlama/obj/Debug/net5.0/console-programlama.genruntimeconfig.cache
