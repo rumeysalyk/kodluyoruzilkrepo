@@ -1,0 +1,16 @@
+D:\web-development\diziler-array-sinifi-metotlari\bin\Debug\net5.0\diziler-array-sinifi-metotlari.exe
+D:\web-development\diziler-array-sinifi-metotlari\bin\Debug\net5.0\diziler-array-sinifi-metotlari.deps.json
+D:\web-development\diziler-array-sinifi-metotlari\bin\Debug\net5.0\diziler-array-sinifi-metotlari.runtimeconfig.json
+D:\web-development\diziler-array-sinifi-metotlari\bin\Debug\net5.0\diziler-array-sinifi-metotlari.runtimeconfig.dev.json
+D:\web-development\diziler-array-sinifi-metotlari\bin\Debug\net5.0\diziler-array-sinifi-metotlari.dll
+D:\web-development\diziler-array-sinifi-metotlari\bin\Debug\net5.0\ref\diziler-array-sinifi-metotlari.dll
+D:\web-development\diziler-array-sinifi-metotlari\bin\Debug\net5.0\diziler-array-sinifi-metotlari.pdb
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\diziler-array-sinifi-metotlari.csproj.AssemblyReference.cache
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\diziler-array-sinifi-metotlari.GeneratedMSBuildEditorConfig.editorconfig
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\diziler-array-sinifi-metotlari.AssemblyInfoInputs.cache
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\diziler-array-sinifi-metotlari.AssemblyInfo.cs
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\diziler-array-sinifi-metotlari.csproj.CoreCompileInputs.cache
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\diziler-array-sinifi-metotlari.dll
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\ref\diziler-array-sinifi-metotlari.dll
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\diziler-array-sinifi-metotlari.pdb
+D:\web-development\diziler-array-sinifi-metotlari\obj\Debug\net5.0\diziler-array-sinifi-metotlari.genruntimeconfig.cache
