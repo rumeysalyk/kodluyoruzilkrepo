@@ -1,0 +1,16 @@
+D:\web-development\metodlar\bin\Debug\net5.0\metodlar.exe
+D:\web-development\metodlar\bin\Debug\net5.0\metodlar.deps.json
+D:\web-development\metodlar\bin\Debug\net5.0\metodlar.runtimeconfig.json
+D:\web-development\metodlar\bin\Debug\net5.0\metodlar.runtimeconfig.dev.json
+D:\web-development\metodlar\bin\Debug\net5.0\metodlar.dll
+D:\web-development\metodlar\bin\Debug\net5.0\ref\metodlar.dll
+D:\web-development\metodlar\bin\Debug\net5.0\metodlar.pdb
+D:\web-development\metodlar\obj\Debug\net5.0\metodlar.csproj.AssemblyReference.cache
+D:\web-development\metodlar\obj\Debug\net5.0\metodlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\web-development\metodlar\obj\Debug\net5.0\metodlar.AssemblyInfoInputs.cache
+D:\web-development\metodlar\obj\Debug\net5.0\metodlar.AssemblyInfo.cs
+D:\web-development\metodlar\obj\Debug\net5.0\metodlar.csproj.CoreCompileInputs.cache
+D:\web-development\metodlar\obj\Debug\net5.0\metodlar.dll
+D:\web-development\metodlar\obj\Debug\net5.0\ref\metodlar.dll
+D:\web-development\metodlar\obj\Debug\net5.0\metodlar.pdb
+D:\web-development\metodlar\obj\Debug\net5.0\metodlar.genruntimeconfig.cache
